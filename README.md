@@ -1,4 +1,23 @@
-# CS 2300 Module 4 Applied Project: Lights Out
+# Lights Out
+In this program I coded the hit 80's game Lights Out. When you click a tile, all 
+available adjactent tiles to the top, bottom, left, and right will flip whatever 
+state they are in (on to off, or off to on). The object of the game is to get all
+tiles in the off position.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Hey! Who turned out the lights?
 
